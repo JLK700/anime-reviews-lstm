@@ -1,4 +1,4 @@
-# Images Tournament App
+# Anime Review Score Guesser
 
 ## Description
 
